@@ -23,5 +23,5 @@ Please note that the [Matlab implementation](https://github.com/JohnDoe2576/VanD
 
 ## Code structuring
 The code is three-layered as detailed below.
-**Layer 1**: 'Main.py' is the upper-most layer wherein the 'user enters the required parameters'
-**Layer 2**: 'MRAC_Sim.py' is the second layer, the _core of code_, wherein the controller development procedure is detailed
+-**Layer 1**: 'Main.py' is the upper-most layer wherein the 'user enters the required parameters'
+-**Layer 2**: 'MRAC_Sim.py' is the second layer, the _core of code_, wherein the controller development procedure is detailed
