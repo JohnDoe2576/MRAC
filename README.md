@@ -26,3 +26,8 @@ The code is Object-Oriented, and three-layered as detailed below.
 - **Layer 3**: `Generate_Data.py`, `Dynamic_Systems.py`, `Data_Handler.py`, `Parameters.py` and `Plot_Data.py` are classes which are `dependencies for the upper layers`; naming justifies their working
 
 The standard Python modules required are `Numpy`, `Scipy`, `Pandas`, `Pickle`, `bz2file`, `Matplotlib`
+
+## Robotic Arm
+The Robotic arm is a second-order dynamical system with a trigonometric (sin()) nonlinearity. Its response to an APRBS is given in the figure below.
+
+![ ](https://github.com/JohnDoe2576/MRAC/blob/main/Plant_Input-Output.png)
